@@ -1,9 +1,5 @@
 ### Hi there 👋
 ### This is Riptide.P
-### 😆
-
-![1152CB82-C597-403F-982A-C252500C3B1A_1_201_a](https://user-images.githubusercontent.com/85790664/121780226-fa20f780-cbd1-11eb-97c5-ddd70b9b6520.jpeg)
-### ⬆️This is stupid Mis.Zhang!
 
 <!--
 **RiptidePzh/RiptidePzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
