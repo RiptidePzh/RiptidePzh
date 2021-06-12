@@ -1,4 +1,7 @@
 ### Hi there 👋
+### This is Riptide.P
+**Yeah it is VanceJoyce's song**
+Anyway, I'm just new here!
 
 <!--
 **RiptidePzh/RiptidePzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
