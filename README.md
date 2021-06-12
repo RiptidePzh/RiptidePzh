@@ -2,8 +2,7 @@
 ### This is Riptide.P
 ### 😆
 
-![Uploading 49067E3E-9F34-4C45-9B31-8D7B0D1CEC0F_1_201_a.jpeg…]()
-
+![1152CB82-C597-403F-982A-C252500C3B1A_1_201_a](https://user-images.githubusercontent.com/85790664/121780226-fa20f780-cbd1-11eb-97c5-ddd70b9b6520.jpeg)
 ### ⬆️This is stupid Mis.Zhang!
 
 <!--
