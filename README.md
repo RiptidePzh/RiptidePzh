@@ -1,7 +1,9 @@
 ### Hi there 👋
 ### This is Riptide.P
-**Yeah it is VanceJoyce's song**
-Anyway, I'm just new here!
+**Yeah it is VanceJoyce's song**  
+- Anyway, I'm just new here! 
+- 🌱 I’m currently learning python and R for statistics
+- Have fun!
 
 <!--
 **RiptidePzh/RiptidePzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
